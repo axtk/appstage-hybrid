@@ -2,7 +2,7 @@
 // all server exports from 'src/entries/<entry_name>/server(/index)?.(js|ts)'
 export const entries = (
   await Promise.all([
-    // main
-    import("../entries/main/server/index.ts"),
+    // react-demo
+    import("../entries/react-demo/server/index.ts"),
   ])
 ).map(({ server }) => server);

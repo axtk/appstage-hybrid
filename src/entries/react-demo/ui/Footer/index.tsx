@@ -2,7 +2,7 @@ export const Footer = () => (
   <footer>
     <hr />
     <p>
-      <em>appstage-hybrid</em>
+      <em>appstage</em>
     </p>
   </footer>
 );
