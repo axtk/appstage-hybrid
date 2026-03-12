@@ -16,7 +16,7 @@
   "author": "axtk",
   "license": "MIT",
   "dependencies": {
-    "appstage": "^0.2.2",
+    "appstage": "^0.2.3",
     "express": "^5.2.1",
     "isbot": "^5.1.36",
     "react": "^19.2.4",
