@@ -9,9 +9,9 @@
     "dev": "appstage dev",
     "preversion": "npm run shape",
     "prod": "appstage prod 127.0.0.1:3000",
-    "shape": "npx codeshape --check",
+    "shape": "npx codeshape check",
     "start": "npm run dev",
-    "typecheck": "npx codeshape --typecheck-only"
+    "typecheck": "npx codeshape typecheck"
   },
   "author": "axtk",
   "license": "MIT",
