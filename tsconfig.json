@@ -4,6 +4,7 @@
     "noEmit": true,
     "outDir": "dist",
     "lib": ["ESNext", "DOM", "DOM.Iterable"],
+    "types": ["node", "express"],
     "target": "esnext",
     "module": "nodenext",
     "moduleResolution": "nodenext",
