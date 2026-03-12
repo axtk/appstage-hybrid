@@ -22,7 +22,7 @@
     "react": "^19.2.4",
     "react-clientside": "^1.1.0",
     "react-dom": "^19.2.4",
-    "react-stateshape": "^0.2.0"
+    "react-stateshape": "^0.2.1"
   },
   "devDependencies": {
     "@types/express": "^5.0.6",
