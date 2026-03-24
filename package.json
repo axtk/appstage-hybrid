@@ -20,9 +20,9 @@
     "express": "^5.2.1",
     "isbot": "^5.1.36",
     "react": "^19.2.4",
-    "react-clientside": "^2.0.1",
+    "react-clientside": "^2.0.4",
     "react-dom": "^19.2.4",
-    "react-stateshape": "^0.2.1"
+    "react-stateshape": "^0.2.4"
   },
   "devDependencies": {
     "@types/express": "^5.0.6",
