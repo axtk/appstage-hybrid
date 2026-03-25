@@ -1,4 +1,4 @@
-import { root } from "./root.ts"
+import { root } from "./root.ts";
 
 export const titleMap: Record<string, string> = {
   [root]: "Intro",

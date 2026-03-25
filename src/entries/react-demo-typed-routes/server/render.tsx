@@ -1,10 +1,10 @@
 import { type Controller, serializeState, servePipeableStream } from "appstage";
 import { isbot } from "isbot";
 import { renderToPipeableStream } from "react-dom/server";
+import { root } from "../const/root.ts";
 import type { SerializableAppState } from "../types/SerializableAppState.ts";
 import { App } from "../ui/App/index.tsx";
 import { toAppState } from "../utils/toAppState.ts";
-import { root } from "../const/root.ts";
 
 export const render: Controller = () => {
   return async (req, res) => {
