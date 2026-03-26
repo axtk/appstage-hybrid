@@ -22,8 +22,8 @@
     "react": "^19.2.4",
     "react-clientside": "^2.0.4",
     "react-dom": "^19.2.4",
-    "react-stateshape": "^0.2.7",
-    "url-shape": "^2.0.2",
+    "react-stateshape": "^0.2.9",
+    "url-shape": "^2.1.1",
     "zod": "^4.3.6"
   },
   "devDependencies": {
