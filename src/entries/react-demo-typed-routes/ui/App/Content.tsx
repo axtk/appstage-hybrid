@@ -25,7 +25,7 @@ export const Content = () => {
       <body>
         <header>
           <div className="content">
-            <h1>React Demo (Typed Routes)</h1>
+            <h1>React Demo (typed routes)</h1>
             <Nav />
           </div>
         </header>
