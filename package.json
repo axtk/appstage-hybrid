@@ -16,11 +16,11 @@
   "author": "axtk",
   "license": "MIT",
   "dependencies": {
-    "appstage": "^0.2.6",
+    "appstage": "^0.2.7",
     "express": "^5.2.1",
     "isbot": "^5.1.36",
     "react": "^19.2.4",
-    "react-bridgestate": "^0.3.1",
+    "react-bridgestate": "^0.3.2",
     "react-clientside": "^2.0.4",
     "react-dom": "^19.2.4",
     "url-shape": "^2.1.6",
